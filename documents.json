@@ -1,0 +1,31 @@
+[
+  {"id": "astro-1", "topic": "astronomy", "text": "A light-year measures distance, not time - it's the distance light travels in one year."},
+  {"id": "astro-2", "topic": "astronomy", "text": "Saturn's rings are made mostly of ice particles, with a smaller amount of rocky debris."},
+  {"id": "astro-3", "topic": "astronomy", "text": "A day on Venus is longer than its year, because it rotates so slowly on its axis."},
+  {"id": "astro-4", "topic": "astronomy", "text": "Neutron stars are so dense that a teaspoon of their material would weigh billions of tons."},
+  {"id": "astro-5", "topic": "astronomy", "text": "The Moon is slowly drifting away from Earth at a rate of about 3.8 centimeters per year."},
+
+  {"id": "cook-1", "topic": "cooking", "text": "Searing meat at high heat creates a browned crust through the Maillard reaction, adding flavor."},
+  {"id": "cook-2", "topic": "cooking", "text": "Baking soda and baking powder are not interchangeable - baking powder already contains an acid."},
+  {"id": "cook-3", "topic": "cooking", "text": "Resting meat after cooking allows the juices to redistribute instead of spilling out when cut."},
+  {"id": "cook-4", "topic": "cooking", "text": "Blanching vegetables briefly in boiling water then ice water helps them keep a bright color."},
+  {"id": "cook-5", "topic": "cooking", "text": "Adding salt to pasta water raises its boiling point only slightly, but it seasons the pasta itself."},
+
+  {"id": "sport-1", "topic": "sports", "text": "In tennis, a 'love' score means zero points, likely derived from the French word for egg, 'l'oeuf'."},
+  {"id": "sport-2", "topic": "sports", "text": "A marathon's official distance, 26.2 miles, was standardized for the 1908 London Olympics."},
+  {"id": "sport-3", "topic": "sports", "text": "In basketball, the shot clock forces a team to attempt a shot within a fixed number of seconds."},
+  {"id": "sport-4", "topic": "sports", "text": "Offside in soccer depends on a player's position relative to the ball and the last defender."},
+  {"id": "sport-5", "topic": "sports", "text": "A perfect game in bowling requires twelve consecutive strikes for a score of 300."},
+
+  {"id": "music-1", "topic": "music theory", "text": "A major scale follows the interval pattern whole-whole-half-whole-whole-whole-half."},
+  {"id": "music-2", "topic": "music theory", "text": "A tritone splits an octave exactly in half and was historically called 'the devil's interval.'"},
+  {"id": "music-3", "topic": "music theory", "text": "Syncopation places emphasis on beats that aren't normally stressed, creating a sense of surprise."},
+  {"id": "music-4", "topic": "music theory", "text": "A key signature tells a musician which notes are consistently sharp or flat throughout a piece."},
+  {"id": "music-5", "topic": "music theory", "text": "A perfect cadence resolves from the dominant chord back to the tonic, giving a sense of finality."},
+
+ {"id": "geo-1", "topic": "geography", "text": "Mount Everest's summit sits at about 8,849 meters, the highest point on Earth's surface above sea level."},
+ {"id": "geo-2", "topic": "geography", "text": "The Mariana Trench plunges to roughly 11,000 meters, the deepest known point in any ocean."},
+ {"id": "geo-3", "topic": "geography", "text": "Death Valley reaches temperatures near 57 degrees Celsius, among the hottest recorded air temperatures on Earth."},
+ {"id": "geo-4", "topic": "geography", "text": "The Sahara spans over 9 million square kilometers, making it the largest hot desert in the world."},
+ {"id": "geo-5", "topic": "geography", "text": "Lake Baikal holds more fresh water than all five of North America's Great Lakes combined."}
+]

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.venv-1/
+Lab3_Instructions.md
+.env
