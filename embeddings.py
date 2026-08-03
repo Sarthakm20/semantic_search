@@ -49,8 +49,7 @@ def _get_embedding_api(text, input_type="passage"):
     if not API_KEY:
         raise RuntimeError(
             "NVIDIA_API_KEY is not set. Copy .env.example to .env and fill in "
-            "your key from Lab 1 (or regenerate one at "
-            "https://build.nvidia.com/settings/api-keys)."
+            "your key."
         )
 
     if input_type not in ("passage", "query"):
